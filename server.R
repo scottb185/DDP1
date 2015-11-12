@@ -11,7 +11,6 @@ shinyServer(
 function(input, output) { 
 output$inputValue <- renderPrint({input$rate}) 
 output$payment <- renderPrint({monthly(input$rate)})
-#output$payment2 <-round(output$payment,digits=2)
           
 }
 ) 

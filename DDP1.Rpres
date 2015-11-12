@@ -24,7 +24,7 @@ n = # of payments, n=360 for 30 year mortgage
 
 M = P[i(1+i)^n ] / [(1+i)^n -1]
  
-Disclaimer: results are for this excercise only; I am not a finance person        
+Disclaimer: results are for this exercise only (I am not a finance person)        
 
 
 
